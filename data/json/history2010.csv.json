@@ -3382,4 +3382,3388 @@
  "Date": "",
  "Volt": "9.45",
  "Imp": "0.79"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "20/4/2010",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "1",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.56",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "2",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "2.01"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "3",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.96"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "4",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.56",
+ "Imp": "1.76"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "5",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.67",
+ "Imp": "2.08"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "6",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "7",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.02"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "8",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.7",
+ "Imp": "1.84"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "9",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.67",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "10",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.66",
+ "Imp": "2.21"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "11",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "2.07"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "12",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "1.85"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "13",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "14",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.02"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "15",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "16",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "1.77"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "17",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "2.05"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "18",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "2.03"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "19",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.05"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "20",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.69",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "21",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "2.28"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "22",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "23",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "24",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.55",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "25",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.93"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "26",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.55",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "27",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "28",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.56",
+ "Imp": "1.79"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "29",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "30",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "2.15"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "31",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "1.97"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "32",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "1.81"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "33",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.55",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "34",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "1.99"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "35",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "36",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "1.78"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "37",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.5",
+ "Imp": "1.97"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "38",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "1.97"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "39",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "1.97"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "1",
+ "CellLbl": "40",
+ "Bat No": "1",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "1",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.66",
+ "Imp": "1.91"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "2",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "3",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.67",
+ "Imp": "2.02"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "4",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "1.81"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "5",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.99"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "6",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "7",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "2.08"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "8",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "1.76"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "9",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "10",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.22"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "11",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "12",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "1.77"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "13",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.72",
+ "Imp": "2.03"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "14",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2.02"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "15",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "16",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "1.84"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "17",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "18",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.73",
+ "Imp": "1.96"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "19",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "1.92"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "20",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "1.77"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "21",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "1.97"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "22",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "23",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "24",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "25",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "26",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.67",
+ "Imp": "1.99"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "27",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "28",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "1.82"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "29",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.36",
+ "Imp": "2.06"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "30",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "2.15"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "31",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "32",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "1.84"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "33",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.16"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "34",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.02"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "35",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "36",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "37",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.94"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "38",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.38",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "39",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "2",
+ "CellLbl": "40",
+ "Bat No": "1",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.76"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "1",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.67",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "2",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2.03"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "3",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.72",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "4",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.66",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "5",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "6",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2.08"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "7",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2.03"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "8",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "1.82"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "9",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.01"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "10",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2.16"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "11",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2.03"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "12",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "13",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "1.96"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "14",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "1.95"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "15",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "16",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "1.83"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "17",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2.07"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "18",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2.01"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "19",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "20",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "1.84"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "21",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.66",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "22",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "23",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "1.99"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "24",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "25",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.54",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "26",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "1.99"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "27",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "1.93"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "28",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "1.84"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "29",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "2.06"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "30",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.19"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "31",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.92"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "32",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "1.83"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "33",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.56",
+ "Imp": "2.05"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "34",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "1.98"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "35",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "1.97"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "36",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "1.8"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "37",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "1.97"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "38",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "1.99"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "39",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2"
+}{
+ "BatLbl": "UPS 2B",
+ "StrLbl": "3",
+ "CellLbl": "40",
+ "Bat No": "1",
+ "Str No": "3",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "1.79"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "1",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "2",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "3",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.13"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "4",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.87"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "5",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.72",
+ "Imp": "2.06"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "6",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.56",
+ "Imp": "2.05"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "7",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "8",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "1.83"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "9",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.66",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "10",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.15"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "11",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.08"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "12",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "1.88"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "13",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "14",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "15",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.82",
+ "Imp": "2.21"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "16",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.83"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "17",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "18",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.66",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "19",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.04"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "20",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.67",
+ "Imp": "1.84"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "21",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.73",
+ "Imp": "2.15"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "22",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.81",
+ "Imp": "2.16"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "23",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.75",
+ "Imp": "2.11"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "24",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "1.91"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "25",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.47",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "26",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.05"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "27",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.7",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "28",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.76",
+ "Imp": "1.89"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "29",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.66",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "30",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.74",
+ "Imp": "2.19"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "31",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.76",
+ "Imp": "2.23"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "32",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.7",
+ "Imp": "1.89"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "33",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.62",
+ "Imp": "2.01"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "34",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.8",
+ "Imp": "2.16"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "35",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.39",
+ "Imp": "2.22"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "36",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.76",
+ "Imp": "1.91"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "37",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.66",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "38",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.76",
+ "Imp": "2.25"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "39",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.69",
+ "Imp": "2.14"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "1",
+ "CellLbl": "40",
+ "Bat No": "2",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.52",
+ "Imp": "2.06"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "",
+ "Imp": ""
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "1",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "2.18"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "2",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "3",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.06"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "4",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "1.92"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "5",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "2.02"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "6",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "7",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.53",
+ "Imp": "2.03"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "8",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.9"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "9",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.11"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "10",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.77",
+ "Imp": "2.18"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "11",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.74",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "12",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.31",
+ "Imp": "2.02"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "13",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.15"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "14",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.7",
+ "Imp": "2.11"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "15",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.72",
+ "Imp": "2.14"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "16",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.59",
+ "Imp": "1.92"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "17",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "18",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.48",
+ "Imp": "2.14"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "19",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.54",
+ "Imp": "2.11"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "20",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.73",
+ "Imp": "1.91"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "21",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.57",
+ "Imp": "2.06"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "22",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "23",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.7",
+ "Imp": "2.08"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "24",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "1.86"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "25",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.48",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "26",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.67",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "27",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "28",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.67",
+ "Imp": "1.9"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "29",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.78",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "30",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.75",
+ "Imp": "2.24"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "31",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "32",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.73",
+ "Imp": "1.85"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "33",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.69",
+ "Imp": "2.14"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "34",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.79",
+ "Imp": "2.18"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "35",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.75",
+ "Imp": "2.08"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "36",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.74",
+ "Imp": "1.93"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "37",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.7",
+ "Imp": "2.07"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "38",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.79",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "39",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.96",
+ "Imp": "2.21"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "2",
+ "CellLbl": "40",
+ "Bat No": "3",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "13.74",
+ "Imp": "1.9"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "1",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.77",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "2",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.72",
+ "Imp": "2.07"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "3",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.82",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "4",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.76",
+ "Imp": "1.92"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "5",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.06"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "6",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.6",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "7",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.69",
+ "Imp": "2.11"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "8",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "1.9"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "9",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.78",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "10",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "2.15"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "11",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.69",
+ "Imp": "2.02"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "12",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "1.86"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "13",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.58",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "14",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.63",
+ "Imp": "2.14"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "15",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.22",
+ "Imp": "2.18"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "16",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.61",
+ "Imp": "1.86"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "17",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.76",
+ "Imp": "2.07"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "18",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.1",
+ "Imp": "2.72"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "19",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.65",
+ "Imp": "2.21"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "20",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.72",
+ "Imp": "1.84"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "21",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.05"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "22",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.71",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "23",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.73",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "24",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "1.91"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "25",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.15"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "26",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.37",
+ "Imp": "2.27"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "27",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.07"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "28",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "1.88"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "29",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.75",
+ "Imp": "2.1"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "30",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.73",
+ "Imp": "2.23"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "31",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.64",
+ "Imp": "2.13"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "32",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.77",
+ "Imp": "1.88"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "33",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "2.09"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "34",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.7",
+ "Imp": "2.12"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "35",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.78",
+ "Imp": "2.07"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "36",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.75",
+ "Imp": "1.91"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "37",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.84",
+ "Imp": "2.47"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "38",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.68",
+ "Imp": "1.99"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "39",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.73",
+ "Imp": "2.15"
+}{
+ "BatLbl": "UPS 2A",
+ "StrLbl": "3",
+ "CellLbl": "40",
+ "Bat No": "3",
+ "Str No": "2",
+ "Date": "",
+ "Volt": "13.7",
+ "Imp": "1.83"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "1",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.78"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "5",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.9",
+ "Imp": "0.78"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "9",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.01",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "13",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9",
+ "Imp": "0.76"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "17",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.92",
+ "Imp": "0.78"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "21",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.89",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "25",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.01",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "29",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.75"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "33",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.77",
+ "Imp": "0.82"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "37",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.8",
+ "Imp": "0.84"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "41",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.78"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "45",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.76"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "49",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "53",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.92",
+ "Imp": "0.83"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "57",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.96",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "61",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.95",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "65",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.01",
+ "Imp": "0.87"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "69",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.93",
+ "Imp": "0.88"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "73",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.98",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "77",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.96",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "81",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.76"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "85",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.95",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "89",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "93",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.92",
+ "Imp": "0.74"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "97",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.92",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "101",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "105",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.97",
+ "Imp": "0.78"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "109",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.96",
+ "Imp": "0.76"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "113",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.95",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "117",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.96",
+ "Imp": "1.01"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "121",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.75"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "125",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.93",
+ "Imp": "0.72"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "129",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.9",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "133",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "137",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.9",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "141",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "145",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "149",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "153",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "157",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.93",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "161",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.02",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "165",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.02",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "169",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.01",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "173",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.93",
+ "Imp": "0.76"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "177",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.75"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "181",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.96",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "185",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.98",
+ "Imp": "0.76"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "189",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.98",
+ "Imp": "0.74"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "193",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "197",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.97",
+ "Imp": "0.82"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "201",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.93",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "205",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.78"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "209",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.75"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "213",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.92",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "217",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "221",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.89",
+ "Imp": "0.86"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "225",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.82"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "229",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.96",
+ "Imp": "0.8"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "233",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.95",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1B",
+ "StrLbl": "1",
+ "CellLbl": "237",
+ "Bat No": "4",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.94",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "1",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.95",
+ "Imp": "0.9"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "5",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.56",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "9",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.54",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "13",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.5",
+ "Imp": "0.94"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "17",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.81",
+ "Imp": "0.94"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "21",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.8",
+ "Imp": "0.94"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "25",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.61",
+ "Imp": "1"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "29",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.42",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "33",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.62",
+ "Imp": "0.95"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "37",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.6",
+ "Imp": "0.92"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "41",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.13",
+ "Imp": "0.94"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "45",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.08",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "49",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9",
+ "Imp": "0.83"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "53",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.2",
+ "Imp": "0.82"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "57",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.06",
+ "Imp": "0.95"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "61",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.11",
+ "Imp": "0.94"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "65",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.9",
+ "Imp": "0.94"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "69",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.92",
+ "Imp": "0.93"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "73",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.55",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "77",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.17",
+ "Imp": "0.89"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "81",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.64",
+ "Imp": "0.88"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "85",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.71",
+ "Imp": "0.88"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "89",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.8",
+ "Imp": "0.89"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "93",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.52",
+ "Imp": "0.85"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "97",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.42",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "101",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.9",
+ "Imp": "0.87"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "105",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.1",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "109",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.11",
+ "Imp": "0.88"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "113",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.08",
+ "Imp": "0.75"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "117",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.18",
+ "Imp": "1.21"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "121",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.21",
+ "Imp": "0.75"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "125",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.14",
+ "Imp": "0.75"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "129",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.06",
+ "Imp": "0.77"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "133",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.1",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "137",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.55",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "141",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.44",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "145",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.78",
+ "Imp": "0.9"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "149",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.97",
+ "Imp": "0.89"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "153",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.19",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "157",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.12",
+ "Imp": "0.88"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "161",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.62",
+ "Imp": "0.9"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "165",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.5",
+ "Imp": "0.92"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "169",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.77",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "173",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.92",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "177",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.64",
+ "Imp": "0.92"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "181",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.91",
+ "Imp": "0.95"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "185",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.28",
+ "Imp": "0.83"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "189",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.23",
+ "Imp": "0.81"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "193",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.13",
+ "Imp": "0.79"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "197",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.96",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "201",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.53",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "205",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.78",
+ "Imp": "0.92"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "209",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.61",
+ "Imp": "0.88"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "213",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.81",
+ "Imp": "0.89"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "217",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.82",
+ "Imp": "0.87"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "221",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.09",
+ "Imp": "0.88"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "225",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.55",
+ "Imp": "0.88"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "229",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "8.95",
+ "Imp": "0.91"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "233",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.15",
+ "Imp": "0.9"
+}{
+ "BatLbl": "UPS 1A",
+ "StrLbl": "1",
+ "CellLbl": "237",
+ "Bat No": "5",
+ "Str No": "1",
+ "Date": "",
+ "Volt": "9.45",
+ "Imp": "0.79"
 }
