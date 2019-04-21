@@ -1,17 +1,22 @@
 const errorHandler = (error) => {
     const fs = require('fs');
+    const inquirer = require('../services/inquirer.ts');
     const errorDataLog = '../data/error-logs/error-log.txt';
     const errorData = {
         date: new Date(),
         text: error.message,
         stack: error.stack
     };
-    console.log('There has been an error: \n');
-    console.log(`Code: ${error.code}\n Message: ${error.message} \n`);
-    console.log('This will be logged in your local error-logs directory.');
-    fs.appendFileSync(errorDataLog, errorData);
-    console.log('Attempting to reinitialize main menu.');
-    return initialize();
+    console.log(`\nThere has been an error: ${error.name}\nCode: ${error.code}\nMessage: ${
+      error.message
+    }\nThis will be logged in your local error-logs directory.`);
+    fs.appendFile(errorDataLog, errorData, (error) => {
+        if (error) {
+          return console.log('Yo dawg, there was an error in your error handler.');
+        }
+        console.log('Attempting to reinitialize main menu.');
+        inquirer();
+    });
 };
 
 module.exports = errorHandler;

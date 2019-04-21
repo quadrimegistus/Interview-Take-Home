@@ -1,6 +1,6 @@
 const fileReader = (file) => {
     const fs = require('fs');
-    const errorHandling = require('../jobs/errorHandler');
+    const errorHandling = require('./jobs/errorHandler');
     return fs.readFile(file, 'utf8', (error, data) => {
         if (error) {
           errorHandling(error);

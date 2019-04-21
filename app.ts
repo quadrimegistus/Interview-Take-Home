@@ -26,100 +26,50 @@
   Ability to sort tables within the CLI based on a user input preference.
   Incorporate front-end architecture for easier reporting access for anyone who may not be CLI savvy, but needs to view these reports.
 */
+require('dotenv').config();
+const express = require('express');
+const pgPool = require('./db/pgdb.ts');
+const inquirer = require('./services/inquirer.ts');
+const errorHandling = require('./jobs/errorHandler.ts');
+const jsonHandling = require('./jobs/fileToJson.ts');
+const readFileHandling = require('./jobs/readFile.ts');
+const readDirHandling = require('./jobs/readDirectory.ts');
+const dbase = require('./models/index.ts');
 
-const inquirer = require('inquirer');
-const fs = require('fs');
-const parse = require('csv-parse/lib/sync');
-const assert = require('assert');
-const pool = require('./db/pgdb.js');
-const errorHandling = require('./jobs/errorHandler');
-const jsonHandling = require('./jobs/fileToJson');
-const readFileHandling = require('./jobs/readFile');
-const readDirHandling = require('./jobs/readDirectory');
+const PORT = process.env.PORT || process.env.LOCALPORT;
+const app = express();
+const syncOptions = {
+    force: process.env.FORCE_SYNC === 'true'
+};
 
-require('dotenv').config(); // Environment variables - credentials for Postgres.
+app.use(express.static('jobs'));
 
-// Connect to local database on application load:
-pool.connect((error) => {
-    errorHandling(error);
+// Catch 404 and forward to error handler:
+if (app.get('env') !== 'development') {
+  app.use((req, res, next) => {
+      const err = new Error(`Not Found: ${req.url}`);
+      next(err);
+  });
+}
+
+if (app.get('env') === 'test') {
+  syncOptions.force = true;
+}
+
+dbase.sequelize.sync(syncOptions).then(() => {
+    if (app.get('env') !== 'test' || syncOptions.force) {
+      require('./db/seed.ts')(dbase);
+    }
+
+    // Connect to local database on application load:
+    pgPool.connect((error) => {
+        errorHandling(error);
+    });
+
+    app.listen(PORT, () => {
+        console.log(`App listening on port: ${PORT}`);
+    });
 });
 
 // Invoking inquirer on Node app spin-up to prompt the user for selections on what tasks they would like to perform:
-function initialize() {
-    inquirer
-      .prompt({
-          name: 'initializer',
-          type: 'list',
-          message: 'Welcome back! What would you like to do today?',
-          choices: ['Manage Local Data Files']
-      })
-      .then((input) => {
-          const chosenOption = input.initializer;
-          if (chosenOption === 'Manage Local Data Files') {
-            console.log(`You chose: ${chosenOption}. \n`);
-            const homeDirectory = './data';
-            const dirArray = readDirHandling(homeDirectory);
-            selectDir(dirArray);
-          }
-      });
-}
-
-function selectDir(directoryArray) {
-    inquirer
-      .prompt({
-          type: 'list',
-          name: 'selectDataDir',
-          message: 'Please select a directory to manage its local files.',
-          choices: directoryArray
-      })
-      .then((input) => {
-          const chosenDir = input.selectDataDir;
-          console.log(`You chose: ${chosenDir}. \n`);
-          const fileArray = readDirHandling(chosenDir);
-          selectFile(fileArray);
-      });
-}
-
-function selectFile(fileArray) {
-    inquirer
-      .prompt({
-          type: 'list',
-          name: 'selectDataFile',
-          message: 'Please select a file to manage its content.',
-          choices: fileArray
-      })
-      .then((input) => {
-          const chosenFile = input.selectDataFile;
-          console.log(`You chose: ${chosenFile}. \n`);
-          manageFile(chosenFile);
-      });
-}
-
-function manageFile(file) {
-    inquirer
-      .prompt({
-          type: 'list',
-          name: 'manageDataFile',
-          message: `Please select an action for ${file}`,
-          choices: ['READ', 'EXPORTTOJSON', 'EXPORTTOCSV', 'DELETE']
-      })
-      .then((input) => {
-          const chosenAction = input.manageDataFile;
-          if (chosenAction === 'DELETE') {
-            console.log(`You chose: ${chosenAction}. \n`);
-            console.log(`Sorry, you don't have the permissions to delete ${file}. \n Returning to main menu.`);
-            return initialize();
-          }
-          if (chosenAction === 'READ') {
-            console.log(`You chose: ${chosenAction}. \n`);
-            return readFileHandling(file);
-          }
-          if (chosenAction === 'EXPORTTOJSON') {
-            console.log(`You chose: ${chosenAction}. \n`);
-            return jsonHandling(file);
-          }
-          if (chosenAction === 'EXPORTTOCSV') {
-            console.log(`You chose: ${chosenAction}. \n`);
-          }
-      });
-}
+inquirer();

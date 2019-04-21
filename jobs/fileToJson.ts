@@ -1,7 +1,7 @@
 const jsonWriter = (file) => {
     const fs = require('fs');
     const csvtojson = require('csvtojson');
-    const errorHandling = require('../jobs/errorHandler');
+    const errorHandling = require('./jobs/errorHandler');
     const options = {}; // Can be passed to configure headers for new JSON pairs. Currently unused.
     csvtojson(options)
       .fromFile(file)

@@ -6,12 +6,12 @@ const parseCsvForReports = (file) => {
         columns: (header) => header.map((column) => column.toUpperCase()),
         relax_column_count: true
     };
-    parse(file, options, (error, records) => {
+    return parse(file, options, (error, records) => {
         if (error) {
           errorHandling(error);
         }
         console.log(records);
-        assert.deepEqual(records, records);
+        assert.deepEqual(records, file);
     });
 };
 
