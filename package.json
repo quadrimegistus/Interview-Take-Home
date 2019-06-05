@@ -12,7 +12,7 @@
       "csv": "^5.1.1",
       "csv-parse": "^4.4.0",
       "csvtojson": "^2.0.8",
-      "dotenv": "^7.0.0",
+      "dotenv": "^8.0.0",
       "express": "^4.16.4",
       "inquirer": "^6.3.1",
       "nodemon": "^1.18.11",
